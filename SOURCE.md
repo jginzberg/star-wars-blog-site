@@ -1,10 +1,8 @@
-<!-- Conduct as a top-down list. Introduce with a table of contents that covers year ranges and supercanon (scriptural?) works aka the episodic film saga. -->
-
-<!-- Every work and its approximate year, linking directly to that story's review. Timeline thus becomes the main form of navigating through the reviews of the site, though stories will be "featured" on the homepage on the day they were released as well as on their author's birthday. -->
+This is where common and frequently used code is stored. Things that make it onto most webpages on the site, including all reviews and cinematic moments.
 
 
-<!DOCTYPE html>
-<html>
+
+HEAD (of Body-fame):
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
@@ -16,48 +14,21 @@
     <link rel="stylesheet" type="text/css" href="css/responsive.css">
     <script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.7.1/modernizr.min.js"></script>
   </head>
-  <body>
 
+
+
+
+HEADER:
     <header>
       <h1>The Jedi Archives</h1>
-      <h2>Merging and Organizing Canon, New and Old</h2>
+      <h2>Organizing Canon, New and Old</h2>
     </header>
 
 
-    <h1></h1>
-    <div class="prequel-trilogy">
-      <h2> The Old Republic and the Clone Wars </h2>
-
-
-    </div>
-
-    <div class="original-trilogy">
-      <h2> The Rise of the Empire and the Galactic Civil War </h2>  
-
-
-    </div>
-
-    <div class="sequel-trilogy">
-      <h2> The New Republic and the Awakening of the Force </h2>
-
-    </div>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+EXTERNAL LINKS:
 
     <section id="external-links" class="dark-background">
       <p class="center"> To widen your search within the Star Wars universe, consider the links below: </p>
@@ -87,12 +58,12 @@
       </div>
     </section>
 
-    <footer>
+
+FOOTER:
+  <footer>
       Disclaimer: I do not own Star Wars. Reviews and comments posted on this site reflect the views, knowledge, and theories of their writers and not Lucasfilm or Disney. Displayed images used under Fair Rights etc. etc.
     </footer>
 
-  </body>
-</html>
 
 
 
